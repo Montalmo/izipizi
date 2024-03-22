@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "748106561903",
+    "project_id": "izipizi-77d31",
+    "storage_bucket": "izipizi-77d31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:748106561903:android:72960d72135b54c964d09a",
+        "android_client_info": {
+          "package_name": "com.example.izipizi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "748106561903-e59hrlcm6bhlvd5aqt4b5q600n1imeh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.izipizi",
+            "certificate_hash": "541253f6460351c428d33431c232bdf155e1c055"
+          }
+        },
+        {
+          "client_id": "748106561903-vudsibnambdboi38cjh6k4qpja2atbvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYJ0Bjcj2NMhUpwOS-hnvWIEMlnFa0OBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "748106561903-vudsibnambdboi38cjh6k4qpja2atbvg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "748106561903-rl2pr5vd4ogdng23pjr5b8hqd6stacho.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.izipizi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,66 @@
+import 'package:izipizi/theme/pallets.dart';
+
+enum ContactCardButtons {
+  bgImage,
+  avatar,
+  name,
+  facebook,
+  instagram,
+  youtube,
+  phone,
+  www,
+  viber,
+  skype,
+  tiktok,
+}
+
+const List additionalContactButtonsData = [
+  [
+    'Facebook',
+    'assets/svgs/fb_icon.svg',
+    ColorPallet.cBlue600,
+    ContactCardButtons.facebook
+  ],
+  [
+    'Instagram',
+    'assets/svgs/instagram_icon.svg',
+    ColorPallet.cPink600,
+    ContactCardButtons.instagram
+  ],
+  [
+    'Youtube',
+    'assets/svgs/youtube_icon.svg',
+    ColorPallet.cRed600,
+    ContactCardButtons.youtube
+  ],
+  [
+    'Phone',
+    'assets/svgs/phone_icon.svg',
+    ColorPallet.cGreen600,
+    ContactCardButtons.phone
+  ],
+  [
+    'WWW',
+    'assets/svgs/www_icon.svg',
+    ColorPallet.cYellow600,
+    ContactCardButtons.www
+  ],
+  [
+    'Viber',
+    'assets/svgs/viber_icon.svg',
+    ColorPallet.cViolet600,
+    ContactCardButtons.viber
+  ],
+  [
+    'Skype',
+    'assets/svgs/skype_icon.svg',
+    ColorPallet.cBlue600,
+    ContactCardButtons.skype
+  ],
+  [
+    'Tiktok',
+    'assets/svgs/tiktok_icon.svg',
+    ColorPallet.cCyanGrey600,
+    ContactCardButtons.tiktok
+  ],
+];
